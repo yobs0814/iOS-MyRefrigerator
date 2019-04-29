@@ -2,5 +2,5 @@
 # version: xCode 9.4
 # must run xcworkspace not xcodeproj
 
-# 레시피 기능은 구현안돼있음.
+# [project content](./IOS_RefrigeratorApp.pdf)
 # thank you.
